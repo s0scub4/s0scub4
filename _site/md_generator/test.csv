@@ -1,0 +1,8 @@
+layout,title,category,tags,date,text,location
+post,video1,category1,tag1,2021-07-11,this is the example content and description of video1,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video2,category1,tag2,2021-07-11,this is the example content and description of video2,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video3,category2,tag2,2021-07-12,this is the example content and description of video3,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video4,category3,tag3,2021-07-13,this is the example content and description of video4,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video5,category4,tag3,2021-07-13,this is the example content and description of video5,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video6,category5,tag4,2021-07-13,this is the example content and description of video6,http://www.youtube.com/embed/pP9Bto5lOEQ
+post,video7,category5,tag4,2021-07-13,this is the example content and description of video7,http://www.youtube.com/embed/pP9Bto5lOEQ

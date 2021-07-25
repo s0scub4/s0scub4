@@ -1,0 +1,42 @@
+title: "SOS Cuba"
+tagline: "Manteniendo informado al pueblo"
+
+
+baseurl: "s0scub4"
+# baseurl: ""
+
+#for online deployment add this line
+remote_theme: zivong/jekyll-theme-hydure
+
+author:
+  name: SOSCUBA
+  url: https://twitter.com/SOSCUBA
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+paginate: 3
+
+tags_path: /tags/
+categories_path: /categories/
+
+language: es
+
+# # for more info on defaults visit: https://jekyllrb.com/docs/configuration/front-matter-defaults/
+# defaults:
+#   -
+#     scope:
+#       #this variable defines which files you want this default FrontMatter to be applied to
+#       #if left empty, it would be applied to all the FrontMatters of the website
+#       #we will define them for the files inside 
+#       path: ""
+#       #this one defines under what folder, you want the default settings to be applied to
+#       type: "posts"
+#     #here you define the default values
+#     values:
+    
+#       layout: "post"
+#       title: "My Title"
